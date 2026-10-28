@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Estágios - Java Web & Apache Tomcat",
+  "description": "Aplicação web completa do Portal de Estágios com execução e simulação de Servlet Java (Jakarta EE / Apache Tomcat), visualizador clássico e moderno, editor de código e projeto Maven exportável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+/* Classic Servlet Output styling replicating browser default render of raw HTML */
+.classic-servlet-output {
+  color: #111827;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.classic-servlet-output h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  color: #111827;
+}
+
+.classic-servlet-output h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  color: #1f2937;
+}
+
+.classic-servlet-output p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-size: 1rem;
+  color: #374151;
+}
+
+.classic-servlet-output hr {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 0;
+  border-top: 1px solid #d1d5db;
+}
